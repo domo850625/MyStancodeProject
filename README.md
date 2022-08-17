@@ -11,9 +11,9 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 * Web crawler\
   *[Web crawler](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Webcrawler/webcrawler.py)*
 * Recursion application\
-  *[Recursion_Sierpinski](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Recursion_Sierpinski/sierpinski.py)*\
-  *[RecursionDictionary_Anagram](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/RecursionDictionary_Anagram/anagram.py)*\
-  *[RecursionDictionary_Boggle_game](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/RecursionDictionary_Boggle_game/boggle.py)*
+  *[Sierpinski](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Recursion_Sierpinski/sierpinski.py)*\
+  *[Dictionary_Anagram](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/RecursionDictionary_Anagram/anagram.py)*\
+  *[Dictionary_Boggle_game](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/RecursionDictionary_Boggle_game/boggle.py)*
 * DATA structure & ListNode\
   *[Largest_digit](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Largest_digit/largest_digit.py)*\
   *[ListNode_add2](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/ListNode_add2/add2.py)*\
