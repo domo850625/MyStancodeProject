@@ -8,7 +8,7 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 * Python Game\
   *[BouncingBall_game](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/BouncingBall/bouncing_ball.py)*\
   *[Breakout_game](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/BreakoutGame/breakout_extention.py)*
-* Web crawler
+* Web crawler\
   *[Web crawler](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Webcrawler/webcrawler.py)*
 * Recursion application\
   *[Recursion_Sierpinski](https://github.com/domo850625/MyStancodeProject/blob/main/mystancodeproject/Recursion_Sierpinski/sierpinski.py)*\
